@@ -4,8 +4,11 @@ niefunckcjonalne, funkcjonalne, diagram aktywności, model dziedziny, korzystali
 OCENA: 4,5
 
 Opis:
+
 Nasz projekt to system zakładu bukmacherskiego, który ma za zadanie umożliwić użytkownikowi składanie zakładów na różne wydarzenia sportowe. 
+
 Założenia:
+
 •	system obsługuję logowanie i rejestrację użytkowników
 •	dla użytkowników zalogowanych system pozwala na utworzenie nowego kuponu poprzez dodanie do niego wybranych z listy zakładów i obstawienie go za wprowadzoną kwotę
 •	użytkownik zalogowany ma wgląd do swoich danych i może je edytować
