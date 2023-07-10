@@ -1,6 +1,8 @@
 Projekt systemu bukmacherskiego tworzony na studia w grupie dwuosobowej w Visual paradigm oraz axure zawarliśmy w tym projekcie wymagania:
 niefunckcjonalne, funkcjonalne, diagram aktywności, model dziedziny, korzystaliśmy z zewnętrznego API i udostępnialiśmy nasze API, wymagania wdrożeniowe oraz prototyp w AXURE.
+
 OCENA: 4,5
+
 Opis:
 Nasz projekt to system zakładu bukmacherskiego, który ma za zadanie umożliwić użytkownikowi składanie zakładów na różne wydarzenia sportowe. 
 Założenia:
